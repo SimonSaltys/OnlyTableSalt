@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OnlyTableSalt
 - 👀 I’m interested in minecraft plugin developement
-- 🌱 I’m currently learning java
+- 🌱 I am a master at java
 - 💞️ I’m looking to collaborate on minecraft minigames
-- 📫 How to reach me --> Discord: OnlyTableSalt#3644
+- 📫 How to reach me --> Discord: OnlyTableSalt
 
 <!---
 OnlyTableSalt/OnlyTableSalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
