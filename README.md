@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OnlyTableSalt
+- 👋 Hi, I’m @Simon Saltikov
 - 👀 I’m interested in minecraft plugin developement
 - 🌱 I am a master at java
 - 💞️ I’m looking to collaborate on minecraft minigames
